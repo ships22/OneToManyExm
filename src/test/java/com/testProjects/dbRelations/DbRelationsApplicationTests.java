@@ -1,10 +1,10 @@
-package com.relationtest.dbRelation;
+package com.testProjects.dbRelations;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DbRelationApplicationTests {
+class DbRelationsApplicationTests {
 
 	@Test
 	void contextLoads() {
